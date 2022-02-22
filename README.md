@@ -8,6 +8,7 @@
 **Back-end Engineer**
 
 Using **Spring Boot with Java**
+<br>
 Using **JPA with QueryDsl**
 
 
