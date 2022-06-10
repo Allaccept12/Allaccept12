@@ -12,16 +12,17 @@ Favorite
 ***JPA***
 
 learning
-***Java***
-***JPA***
 ***DDD***
-
-
 
 ### ⚡⚡Well Come My Back-End World⚡⚡ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseongbinko%2Fhit-counter&count_bg=%233DC899&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Allaccept12&show_icons=true&theme=radical)
 
 ***문제를 파악하고, 문제를 해결하는데 흥미를 느낍니다.***
+
+**읽고있는 책
+1. 오브젝트
+2. 도메인 주도 개발 시작하기(DDD 핵심 개념 정리부터 구현 까지) 
+3. 모던 자바 인 액션
 
 
 
