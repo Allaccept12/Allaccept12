@@ -7,7 +7,7 @@
 
 **Back-end Engineer**
 
-Favorite
+**Favorite**
 ***Java***
 ***Kotlin***
 ***JPA***
